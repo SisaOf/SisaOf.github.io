@@ -4,7 +4,7 @@ email: nacl31566@gmail.com # email of site's author
 url: sisaof.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  2024년 시사지식 저장소.
+  2024년 시사지식 저장소. 남연우(고려대 미디어), 우현준(동국대 법학), 정상혁(고려대 지리교육) 제작.
 
 permalink: /:slug.html
 
