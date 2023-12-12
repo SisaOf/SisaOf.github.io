@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
- - title: 정보
+  - title: 정보
     entries:
       - title: 2024년 시사지식 저장소.
       - title: 남연우(고려대 미디어 21) / 우현준(동국대 법학 21) / 정상혁(고려대 지리교육 21) 제작.
